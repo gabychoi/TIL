@@ -1,0 +1,4 @@
+Tony:70
+Anna:95
+Mary:65
+Minsu:80
